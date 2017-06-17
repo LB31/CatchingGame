@@ -1,0 +1,55 @@
+html, body{
+	font-family: Arial;
+	background-image: url(media/forestBG.jpg);
+	width: 98%;
+	height: 100%;
+}
+
+#spiel{
+	position: relative;
+	top: 60px;
+    margin: 0px auto;
+	width: 80%;
+	height: 70%;
+	border: 3px solid #fff;
+	background-color: rgba(0,0,0,0.5);
+	border-radius: 40px 0px 40px 0px;
+
+	text-align: center;
+	color: #fff;
+	font-size: 50pt;
+}
+
+#zentrierer
+{
+background-color: rgba(255,255,0,0.8);
+padding: 0px 10px 20px;
+border: 3px solid #fff;
+width: 40%;
+height: 90px;
+margin: -16px auto;
+border-radius: 10px;
+}
+
+.absolut{
+position: absolute;
+cursor: url(media/pokeball.png), auto;
+}
+
+.right
+{
+float: right;
+}
+
+#start
+{
+cursor: pointer;
+text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+color: red;
+font-size: 30px;
+}
+
+.nachricht
+{
+te
+}
